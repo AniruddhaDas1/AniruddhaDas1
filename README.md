@@ -14,7 +14,7 @@
 
 🤝 I'm always open to collaboration and learning from fellow developers. If you have any interesting projects or ideas, feel free to reach out. Let's build amazing things together!
 
-📫 You can connect with me on LinkedIn or send me an email at [email protected] I'm looking forward to connecting with the vibrant developer community here on GitHub!
+📫 You can connect with me on LinkedIn or send me an email at ani.coderxdev@gmail.com I'm looking forward to connecting with the vibrant developer community here on GitHub!
 
 Happy coding!! 🚀
 <!--
