@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👋 Hello there! Welcome to my GitHub profile. I'm Aniruddha Das, a passionate software developer with a love for coding and creating innovative solutions.
+👋 Welcome to my GitHub profile. I'm Aniruddha Das, a passionate software developer with a love for coding and creating innovative solutions.
 
 💻 I have a strong background in computer science and a keen interest in solving complex problems through elegant and efficient code. I enjoy exploring various technologies and frameworks, constantly expanding my knowledge and staying up-to-date with the latest advancements in the field.
 
