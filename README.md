@@ -1,22 +1,24 @@
 ### Hi there 👋
 
-👋 Welcome to my GitHub profile. I'm Aniruddha Das, a passionate software developer with a love for coding and creating innovative solutions.
+👋 Welcome to my GitHub profile. I'm Aniruddha Das, a dedicated Data Analyst and BI Developer with a passion for uncovering insights and creating data-driven solutions.
 
-💻 I have a strong background in computer science and a keen interest in solving complex problems through elegant and efficient code. I enjoy exploring various technologies and frameworks, constantly expanding my knowledge and staying up-to-date with the latest advancements in the field.
+📊 I have a solid background in data analysis and business intelligence, with a keen interest in transforming complex data into actionable insights. I thrive on exploring various data technologies and tools, continuously expanding my knowledge and staying up-to-date with the latest industry trends.
 
-🔭 Currently, I'm focused on building scalable and robust web applications using modern technologies like JavaScript, React, and Node.js. I believe in writing clean, modular, and well-tested code to deliver high-quality software.
+🔭 Currently, I'm focused on building scalable and robust data models and visualizations using modern tools like SQL, Python, Power BI, and Tableau. I believe in clean, well-documented, and efficient data processing to deliver high-quality insights and business solutions.
 
-🌱 I'm a firm believer in continuous learning and growth. I actively seek out new challenges and opportunities to enhance my skills. I'm also open to collaborating on exciting projects that push the boundaries of technology.
+🌱 I'm a firm believer in continuous learning and growth. I actively seek out new challenges and opportunities to enhance my skills in data analytics and business intelligence. I'm also open to collaborating on exciting projects that push the boundaries of data science.
 
-💡 Besides coding, I have a strong interest in problem-solving and algorithmic thinking. I enjoy participating in coding competitions and solving algorithmic puzzles to sharpen my skills.
+💡 Besides data analysis, I have a strong interest in data storytelling and dashboard design. I enjoy participating in data challenges and hackathons to sharpen my skills and learn new techniques.
 
-📚 When I'm not coding, you'll likely find me reading tech blogs, exploring new frameworks, or tinkering with side projects. I also enjoy sharing my knowledge and experiences with others through blogging and mentoring.
+🖥️ In addition to my work in data analytics, I'm also a passionate web developer. In my free time, I love developing web applications using JavaScript, React, and other front-end technologies. This hobby allows me to explore new frameworks and create innovative solutions, blending my analytical skills with web development to build dynamic, user-friendly applications.
 
-🤝 I'm always open to collaboration and learning from fellow developers. If you have any interesting projects or ideas, feel free to reach out. Let's build amazing things together!
+📚 When I'm not analyzing data or coding, you'll likely find me reading tech blogs, exploring new data visualization techniques, or working on side projects. I also enjoy sharing my knowledge and experiences with others through blogging and mentoring.
 
-📫 You can connect with me on LinkedIn or send me an email at ani.coderxdev@gmail.com I'm looking forward to connecting with the vibrant developer community here on GitHub!
+🤝 I'm always open to collaboration and learning from fellow data enthusiasts and developers. If you have any interesting projects or ideas, feel free to reach out. Let's turn data into actionable insights and build amazing web applications together!
 
-Happy coding!! 🚀
+📫 You can connect with me on LinkedIn or send me an email at ani.coderxdev@gmail.com. I'm looking forward to connecting with the vibrant data and developer community here on GitHub!
+
+Happy analyzing and coding!! 🚀
 <!--
 **AniruddhaDas1/AniruddhaDas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
