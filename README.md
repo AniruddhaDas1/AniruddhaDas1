@@ -1,8 +1,8 @@
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4beb8d40-457d-4b53-9044-ee8eabeb3f5e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
+![google-project-management-professional-certificate 2](https://github.com/user-attachments/assets/6e6423ec-6de7-482e-96e8-15961c4ee1ea)
 ### Hi there 👋
 
 👋 Welcome to my GitHub profile. I'm Aniruddha Das, a dedicated Data Analyst and BI Developer with a passion for uncovering insights and creating data-driven solutions.
+
 
 📊 I have a solid background in data analysis and business intelligence, with a keen interest in transforming complex data into actionable insights. I thrive on exploring various data technologies and tools, continuously expanding my knowledge and staying up-to-date with the latest industry trends.
 
