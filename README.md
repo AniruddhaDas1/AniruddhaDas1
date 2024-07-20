@@ -1,3 +1,5 @@
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4beb8d40-457d-4b53-9044-ee8eabeb3f5e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ### Hi there 👋
 
 👋 Welcome to my GitHub profile. I'm Aniruddha Das, a dedicated Data Analyst and BI Developer with a passion for uncovering insights and creating data-driven solutions.
