@@ -1,7 +1,7 @@
 ![google-data-analytics-professional-certificate 2 (1)](https://github.com/user-attachments/assets/cc0897d6-13a8-457e-a9ba-20101114b0eb)
 ![google-business-intelligence-certificate (1)](https://github.com/user-attachments/assets/e1407bc9-0337-47ae-829d-c6493d9e15ef)
 ![google-project-management-professional-certificate 2](https://github.com/user-attachments/assets/6e6423ec-6de7-482e-96e8-15961c4ee1ea)
-### Hi there 👋
+### Hi there! Namaste 🙏
 
 
 👋 Welcome to my GitHub profile. I'm Aniruddha Das, a dedicated Data Analyst and BI Developer with a passion for uncovering insights and creating data-driven solutions.
