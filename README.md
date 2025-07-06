@@ -1,4 +1,4 @@
-![Credly_microsoft-certified-associate-badge](https://github.com/user-attachments/assets/07efbba8-7abd-46ea-adb5-266c0a2027a2)
+![Credly_microsoft-certified-associate-badge](https://github.com/user-attachments/assets/8e397952-a0cf-4283-883a-8966e5530f23)
 ![google-data-analytics-professional-certificate 2 (1)](https://github.com/user-attachments/assets/cc0897d6-13a8-457e-a9ba-20101114b0eb)
 ![google-business-intelligence-certificate (1)](https://github.com/user-attachments/assets/e1407bc9-0337-47ae-829d-c6493d9e15ef)
 ![google-project-management-professional-certificate 2](https://github.com/user-attachments/assets/6e6423ec-6de7-482e-96e8-15961c4ee1ea)
